@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/owshq-academy/ws-stack-dados-k8s.git'
+    repoURL: 'https://github.com/bastoshenrique/ws-stack-dados-k8s.git'
     path: infra/src/helm-charts/minio-operator
     targetRevision: HEAD
     helm:
